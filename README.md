@@ -12,5 +12,8 @@ background / diseased leaf / healty leaf 로 라벨링 하고
 
 인공신경망 학습을 위한 데이터 형식에 맞게 Pytoch tensor 로 변환하였습니다.
 
-구동 이미지 화면
+구동 이미지 화면 및 segement 이미지
+
+
+
 ![image](https://github.com/user-attachments/assets/a58a6368-fb66-4630-b3ca-503c78152536)
